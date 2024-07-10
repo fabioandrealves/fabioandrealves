@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabioandrealves
-- 👀 I’m interested Mobile Development
-- 🌱 I’m currently learning Flutter framework and Dart language
+- 👀 I’m interested Mobile Development and Web Development
+- 🌱 I’m currently learning new Frameworks
 
 <div>
   <a href="https://github.com/fabioandrealves">
